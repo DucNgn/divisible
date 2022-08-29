@@ -16,7 +16,7 @@ poetry add divisible
 **Voilà**, done.
 
 ### Usage
-```
+```python
 from divisible import is_divisible
 
 is_divisible(200, 25) # --> True
@@ -24,13 +24,13 @@ is_divisible(200, 25) # --> True
 
 Now supports is_even and is_odd, wow.
 
-```
+```python
 from divisible import is_odd
 
 is_odd(200) # --> False
 ```
 
-```
+```python
 from divisible import is_even
 
 is_even(200) # --> True
