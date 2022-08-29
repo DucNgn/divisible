@@ -1,5 +1,9 @@
 # Divisible
 
+[![Run Tests](https://github.com/DucNgn/divisible/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/DucNgn/divisible/actions/workflows/ci.yml)
+[![PyPI version](https://badge.fury.io/py/divisible.svg)](https://badge.fury.io/py/divisible)
+
+
 Great python package for all your hmm-is-this-number-divisible-by-this-number needs!
 
 ### Installation:
