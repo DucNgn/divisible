@@ -9,7 +9,7 @@ pip install divisible
 ## --- OR ---
 poetry add divisible
 ```
-**Voilà**
+**Voilà**, done.
 
 ### Usage
 ```
