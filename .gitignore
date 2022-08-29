@@ -1,0 +1,7 @@
+*.DS_Store
+.venv/
+env/
+venv/
+dist/
+.pytest_cache/
+.vscode/
